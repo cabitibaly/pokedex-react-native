@@ -1,6 +1,6 @@
 # cloner l'app
 
-git clone https://github.com/cabitibaly/pokedex-react-native.git
+```git clone https://github.com/cabitibaly/pokedex-react-native.git``
 
 # installer les dépendances
 
