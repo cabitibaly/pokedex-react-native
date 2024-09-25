@@ -4,12 +4,21 @@
 
 # installer les dépendances
 
-npm install
+```npm install```
 
 # lancer l'app
 
-npm start si vous avez "expo go" sur votre smarphone
+```
+npm start
+si vous avez "expo go" sur votre smarphone
+``` 
 
-npm run ios emulateur pour iphone
+``` 
+npm run ios 
+emulateur pour iphone
+``` 
 
-npm run android emulateur pour android
+``` 
+npm run android 
+emulateur pour android
+``` 
