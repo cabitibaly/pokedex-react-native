@@ -2,14 +2,14 @@
 
 git clone https://github.com/cabitibaly/pokedex-react-native.git
 
-# install dependencies
+# installer les dépendances
 
 npm install
 
-# run l'app
+# lancer l'app
 
-npm start si vous avez "expo go sur votre smartphone"
+npm start si vous avez "expo go" sur votre smarphone
 
-npm run ios si vous avez un iphone
+npm run ios emulateur pour iphone
 
-npm run android si vous avez un android
+npm run android emulateur pour android
